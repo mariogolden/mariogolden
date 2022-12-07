@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi! I'm Chris.</h1>
+<h1 align="center">👋Hi! I'm Mario.</h1>
 
 ###
 
@@ -16,18 +16,8 @@
 
 ###
 
-<p align="left">As a Senior Full Stack Developer with 10+ years of experience, I have the biggest experience in both frontend & backend development using MERN, MEVN stack, PHP Frameworks.
-I am always glad to dive deep into your needs and help you with your project development. Apart from the back-end development, I can be responsive to the needs of the front-end coding using JavaScript and its framework Vue.js.
-
-My tech stack:
-- React, Vue, Angular, jQuery, D3.js, Bootstrap, HTML/CSS, Tailwind CSS
-- WordPress, Drupal, Laravel, Code Ignitor, Django, .NET, Java Spring, Node.js, Express.js
-- MySQL, PostgreSQL, MongoDB
-- SEO
-- AWS
-- Git, Jira, Trello
-- Jest, Mocha, Chai
-- NPM, Docker
+<p align="left">As a Senior Full-Stack developer with 7+ years of experience, I have a demonstrated history of excellence throughout multiple positions with several
+companies with a focus on Full-Stack development and Engineering. I also have deep knowledge of backend development and familiar with PHP frameworks and Node.js. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.
 </p>
 
 ###
